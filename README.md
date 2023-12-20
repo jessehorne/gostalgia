@@ -1,7 +1,7 @@
 gostalgia
 ===
 
-![screenshot](./screenshot.png)
+![video](./video.gif)
 
 The goal of this project is to create a fun Go development environment that feels nostalgic for those that have used BASIC, Applesoft BASIC in particular and other old systems. This is a creative exercise, not an attempt to clone any one system.
 
